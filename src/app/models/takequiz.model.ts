@@ -1,0 +1,17 @@
+export interface Model{
+    _id?:String,
+    Title?: String,
+    Description?: String,
+    Question1?: String,
+    Question2?: String,
+    Question2Option1?: String,
+    Question2Option2?: String,
+    Question2Option3?: String,
+    Question2Option4?: String,
+    Question3?: String,
+    Question3Option1?: String,
+    Question3Option2?: String,
+    Question3Option3?: String,
+    Question3Option4?: String,
+    Question4?: String,
+}
